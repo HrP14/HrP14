@@ -18,7 +18,7 @@ I'm an Application Engineer at HCLTech, diving deep into the worlds of OpenText 
 * **SAP:** ABAP, SAP VIM (Vendor Invoice Management) 💼 - Customizing business processes and managing vendor invoices.
 * **OpenText:** Content Server, OTDS (OpenText Directory Services), xECM (Extended ECM for SAP Solutions), **Archive Server 📚 - The central storage for all documents, old and new, from both SAP and OpenText systems.** Managing document lifecycles and integrating with SAP.
 * **Programming:** Python (Currently Learning) 🐍, SQL 🗄️ - Developing scripts and querying databases.
-* **Data Analysis (Learning):** Pandas 🐼, NumPy 🔢, Scikit-learn 🔬 (Basic familiarity) - Exploring data and learning machine learning basics.
+* **Data Analysis (Learning):** Pandas 🐼, NumPy 🔢 - Exploring data and learning machine learning basics.
 * **Version Control:** Git 🌳 - Managing code changes and collaborating with teams.
   
 
